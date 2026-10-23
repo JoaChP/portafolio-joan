@@ -29,3 +29,7 @@ Las ilustraciones son composiciones conceptuales hechas con CSS, no capturas de 
 ## Perfil profesional
 
 Incluye experiencia en la Municipalidad de Santa Cruz y tutoría en la UNA, caso SIMADLSC, formación universitaria, cursos y certificaciones, enlace de contacto a GitHub. La información profesional proviene de los CV proporcionados por el titular.
+
+## Proyecto de tesis destacado
+
+Protección de Datos y Seguridad Digital abre la selección de proyectos. Se destaca su chatbot guiado y se enlaza la documentación técnica del repositorio `JoaChP/proteccion-datos`. El alcance y las pruebas se describen conforme a esa documentación, distinguiendo la validación técnica de la validación académica pendiente.

@@ -24,4 +24,8 @@ Los siguientes cambios en `main` se publican automáticamente si la integración
 
 Las ilustraciones son composiciones conceptuales hechas con CSS, no capturas de las aplicaciones. TalentBridge se identifica como prototipo con datos simulados. Los enlaces externos abren las demos y los repositorios correspondientes.
 
-Pendiente de incorporar: experiencia, formación, caso SIMADLSC, CV descargable y datos de contacto profesional.
+
+
+## Perfil profesional
+
+Incluye experiencia en la Municipalidad de Santa Cruz y tutoría en la UNA, caso SIMADLSC, formación universitaria, cursos y certificaciones, enlace de contacto a GitHub. La información profesional proviene de los CV proporcionados por el titular.
